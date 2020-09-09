@@ -1,11 +1,11 @@
 # Site settings
-author: Sunitee Mishra
-title: 
+author: Sunitee
+title: ## RESET 2020
 header-img: img/home-bg.png
 email: sunitee.mishra@gmail.com
-copyright_name: Sunitee Mishra
+copyright_name: Sunitee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Do what is right, not what is easy.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  s2umish
